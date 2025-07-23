@@ -136,9 +136,9 @@ function App() {
         <div className="text-center space-y-4">
           <div className="flex items-center justify-center space-x-2 space-x-reverse">
             <GraduationCap className="h-12 w-12 text-white" />
-            <h1 className="text-4xl font-bold text-white">نتائج الطلاب</h1>
+            <h1 className="text-4xl font-bold text-white">اوائل المهني</h1>
           </div>
-          <p className="text-xl text-white/80">العراق - نتائج الامتحانات الرسمية</p>
+          <p className="text-xl text-white/80">اوائل السادس المهني 2024-2025</p>
         </div>
 
         {/* نموذج البحث */}
@@ -270,7 +270,7 @@ function App() {
 
       {/* تذييل الصفحة */}
       <div className="mt-8 text-center text-white/60">
-        <p>© 2024 نظام نتائج الطلاب - العراق</p>
+        <p>© 2024 شبكة عنترة التعليمية المهنية</p>
       </div>
     </div>
   )
